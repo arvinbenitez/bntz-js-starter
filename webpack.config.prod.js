@@ -33,7 +33,8 @@ export default {
                 removeComments: true,
                 collapseWhitespace: false
             },
-            inject: true
+            inject: true,
+            trackJSToken: '428bd5f164b141d5b4147efa8b040ff0'
         }),
 
         //eliminate duplicate packages when generating bundle
